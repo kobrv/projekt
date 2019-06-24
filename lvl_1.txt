@@ -1,0 +1,26 @@
+Recepcja
+Linijka 1
+Linijka 2
+Linijka 3
+Linijka 4
+Biuro
+Linijka 1
+Linijka 2
+Linijka 3
+Linijka 4
+Zaplecze
+Linijka 1
+Linijka 2
+Linijka 3
+Linijka 4
+Toaleta
+Linijka 1
+Linijka 2
+Linijka 3
+Linijka 4
+Magazyn I
+Linijka 1
+Linijka 2
+Linijka 3
+Linijka 4
+Magazyn II
